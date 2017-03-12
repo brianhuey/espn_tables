@@ -48,10 +48,8 @@ setup(
         'Environment :: Console',
 
         # Indicate who your project is intended for
-        'Intended Audience :: Science/Research',
         'Intended Audience :: End Users/Desktop',
         'Intended Audience :: Developers',
-        'Topic :: Scientific/Engineering',
 
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: BSD License',

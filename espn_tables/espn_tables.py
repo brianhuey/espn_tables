@@ -63,7 +63,7 @@ class League(object):
         df.drop([0, 1, 2], axis=1, inplace=True)
         return df
 
-    def _formatAuctionTable(self, html):
+    def _formatAuctionTable(self, df):
         """ Format html auction table string to pandas dataframe.
             Input: html table str
             Output: pandas dataframe

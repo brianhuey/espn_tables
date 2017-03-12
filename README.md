@@ -5,7 +5,7 @@ Pandas DataFrames. It can be used to download league wide and team specific
 data in real-time.
 
 
-###: Supported tables
+###Supported tables
 - Standings
 - Draft Results
 - Active Stats
