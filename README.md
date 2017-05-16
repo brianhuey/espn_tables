@@ -1,22 +1,22 @@
-#ESPN Fantasy Baseball Table Parser
+# ESPN Fantasy Baseball Table Parser
 
 This package can be used to import ESPN Fantasy Baseball League data as 
 Pandas DataFrames. It can be used to download league wide and team specific
 data in real-time.
 
 
-###Supported tables
+### Supported tables
 - Standings
 - Draft Results
 - Active Stats
 - Transactions
 
-###Install:
+### Install:
 ``` python
 python setup.py install
 ```
 
-###Usage:
+### Usage:
 ```python
 import espn_tables
 ```
